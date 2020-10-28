@@ -1,0 +1,27 @@
+body {
+	background-image: url(images/space.jpg);
+	margin: 0;
+	overflow: hidden;
+}
+.cockpit {
+	position: absolute;
+	z-index: 50;
+	height: 100%;
+	width: 100%;
+}
+
+#soundicon {
+	
+}
+
+#cortanaicon {
+
+}
+
+#energyicon {
+
+}
+
+#displayicon {
+
+}
